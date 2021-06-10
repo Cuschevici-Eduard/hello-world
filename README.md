@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 The modified file from GitHub.
 
 The second modifies in this file.
+
+The third modifies in this file.
